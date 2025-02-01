@@ -1,0 +1,2243 @@
+"loan_applications": [
+    {
+        "personal_information": {
+            "name": "Sydney Daniel",
+            "date_of_birth": "1971-10-30",
+            "addresses": [
+                {
+                    "address": "34272 King Stream, Brentstad, AR 88393",
+                    "type": "Current",
+                    "reported_date": "2022-05-31"
+                },
+                {
+                    "address": "5474 Michael Park Suite 769, Perezview, MN 61337",
+                    "type": "Previous",
+                    "reported_date": "2023-02-14"
+                }
+            ],
+            "ssn": "068-49-1248"
+        },
+        "credit_summary": {
+            "credit_score": 370,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 8
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Mortgage",
+                "balance": 171759,
+                "credit_limit": null,
+                "original_amount": 147731
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 59944,
+                "credit_limit": null,
+                "original_amount": 165597
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Student Loan",
+                "balance": 71000,
+                "credit_limit": null,
+                "original_amount": 9634
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Mortgage",
+                "balance": 6562,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 16008,
+                "filed_date": "2020-03-12",
+                "status": "Satisfied",
+                "release_date": "2021-02-28"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-04",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-07",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-05",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-15",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": true,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Jasmine Barnes",
+            "date_of_birth": "2002-11-24",
+            "addresses": [
+                {
+                    "address": "762 Smith Brooks Suite 059, Parkmouth, AR 41255",
+                    "type": "Current",
+                    "reported_date": "2024-11-03"
+                },
+                {
+                    "address": "93873 Reese Mountain, Philipstad, TX 32225",
+                    "type": "Previous",
+                    "reported_date": "2021-08-07"
+                }
+            ],
+            "ssn": "766-96-0752"
+        },
+        "credit_summary": {
+            "credit_score": 349,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 19
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 109905,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Credit Card",
+                "balance": 20028,
+                "credit_limit": null,
+                "original_amount": 226248
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Mortgage",
+                "balance": 119502,
+                "credit_limit": 26869,
+                "original_amount": 18825
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Personal Loan",
+                "balance": 95831,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Personal Loan",
+                "balance": 180295,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 26022,
+                "filed_date": "2024-12-28",
+                "status": "Released",
+                "release_date": "2023-02-07"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-07",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Within property impact high read often plan position list guy."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Eric Jimenez",
+            "date_of_birth": "1991-07-11",
+            "addresses": [
+                {
+                    "address": "35608 Jennifer Spurs, Annettetown, KS 49488",
+                    "type": "Current",
+                    "reported_date": "2021-04-28"
+                },
+                {
+                    "address": "523 Garza Mills Suite 628, Alexandramouth, TX 04666",
+                    "type": "Previous",
+                    "reported_date": "2024-11-29"
+                }
+            ],
+            "ssn": "443-57-1577"
+        },
+        "credit_summary": {
+            "credit_score": 549,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 93
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Personal Loan",
+                "balance": 171136,
+                "credit_limit": null,
+                "original_amount": 5452
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Credit Card",
+                "balance": 198463,
+                "credit_limit": null,
+                "original_amount": 171905
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Student Loan",
+                "balance": 162555,
+                "credit_limit": null,
+                "original_amount": 90761
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 12489,
+                "filed_date": "2020-07-01",
+                "status": "Released",
+                "release_date": "2020-02-29"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-16",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Brittany Nolan",
+            "date_of_birth": "1959-11-04",
+            "addresses": [
+                {
+                    "address": "25485 Gilmore Centers, Johnstonbury, NV 05582",
+                    "type": "Current",
+                    "reported_date": "2023-01-17"
+                },
+                {
+                    "address": "253 Carter Route Suite 681, Jenniferview, IL 20294",
+                    "type": "Previous",
+                    "reported_date": "2022-07-30"
+                }
+            ],
+            "ssn": "851-97-2102"
+        },
+        "credit_summary": {
+            "credit_score": 395,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 24
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 99683,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Credit Card",
+                "balance": 24204,
+                "credit_limit": null,
+                "original_amount": 249234
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 45906,
+                "credit_limit": null,
+                "original_amount": 27357
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 4190,
+                "filed_date": "2023-12-14",
+                "status": "Released",
+                "release_date": "2024-03-06"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-17",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-04",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-01",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Check open decide suddenly purpose even."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Randy Flowers",
+            "date_of_birth": "1975-09-23",
+            "addresses": [
+                {
+                    "address": "010 William Plaza Suite 810, Port John, IN 99711",
+                    "type": "Current",
+                    "reported_date": "2023-06-08"
+                },
+                {
+                    "address": "373 David Island, South Adam, MD 48988",
+                    "type": "Previous",
+                    "reported_date": "2022-05-18"
+                }
+            ],
+            "ssn": "428-98-6137"
+        },
+        "credit_summary": {
+            "credit_score": 334,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 36
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Discover",
+                "account_type": "Mortgage",
+                "balance": 195864,
+                "credit_limit": null,
+                "original_amount": 222520
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Personal Loan",
+                "balance": 102456,
+                "credit_limit": null,
+                "original_amount": 245679
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 100285,
+                "credit_limit": null,
+                "original_amount": 172034
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Mortgage",
+                "balance": 130706,
+                "credit_limit": null,
+                "original_amount": 123582
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Personal Loan",
+                "balance": 178759,
+                "credit_limit": null,
+                "original_amount": 193032
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-12",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-12",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-22",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Ashley Sullivan",
+            "date_of_birth": "1983-06-05",
+            "addresses": [
+                {
+                    "address": "96650 Wilson Viaduct, Hillville, DE 96328",
+                    "type": "Current",
+                    "reported_date": "2023-09-16"
+                },
+                {
+                    "address": "745 Kelly Knolls Apt. 700, Dawnberg, AR 63950",
+                    "type": "Previous",
+                    "reported_date": "2023-07-20"
+                }
+            ],
+            "ssn": "735-42-2204"
+        },
+        "credit_summary": {
+            "credit_score": 848,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 64
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Student Loan",
+                "balance": 45987,
+                "credit_limit": null,
+                "original_amount": 230423
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Student Loan",
+                "balance": 76833,
+                "credit_limit": 17192,
+                "original_amount": 47021
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Student Loan",
+                "balance": 103234,
+                "credit_limit": 25161,
+                "original_amount": 242802
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Mortgage",
+                "balance": 134836,
+                "credit_limit": null,
+                "original_amount": 197916
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 8202,
+                "filed_date": "2022-06-20",
+                "status": "Released",
+                "release_date": "2022-03-16"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-04",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-23",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": true,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Patricia Sharp",
+            "date_of_birth": "1954-02-02",
+            "addresses": [
+                {
+                    "address": "424 Denise Roads Suite 186, Staffordmouth, ND 47793",
+                    "type": "Current",
+                    "reported_date": "2021-07-17"
+                },
+                {
+                    "address": "160 Rhonda Bridge, West Aaron, NC 57787",
+                    "type": "Previous",
+                    "reported_date": "2020-03-29"
+                }
+            ],
+            "ssn": "180-80-8040"
+        },
+        "credit_summary": {
+            "credit_score": 607,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 77
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Mortgage",
+                "balance": 98646,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-18",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-08",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-14",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": true,
+            "consumer_statement": "War treatment move dark attention radio floor notice suggest director medical interview there."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Gregory Ramos",
+            "date_of_birth": "1994-02-23",
+            "addresses": [
+                {
+                    "address": "52414 Berger Springs, Vincentland, GA 35503",
+                    "type": "Current",
+                    "reported_date": "2023-11-20"
+                },
+                {
+                    "address": "5384 Sandra Prairie Suite 231, Karenside, NJ 53281",
+                    "type": "Previous",
+                    "reported_date": "2023-08-19"
+                }
+            ],
+            "ssn": "164-68-8876"
+        },
+        "credit_summary": {
+            "credit_score": 491,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 64
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Auto Loan",
+                "balance": 68583,
+                "credit_limit": 31020,
+                "original_amount": 73169
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 96835,
+                "credit_limit": 14717,
+                "original_amount": 101824
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-21",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-15",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-14",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-04",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-17",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": true,
+            "consumer_statement": "Worry instead heart arm economy project keep note couple."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Melanie Williams",
+            "date_of_birth": "1953-04-12",
+            "addresses": [
+                {
+                    "address": "022 Smith Stravenue Suite 205, Laurenchester, MD 68289",
+                    "type": "Current",
+                    "reported_date": "2023-01-20"
+                },
+                {
+                    "address": "Unit 9755 Box 9909, DPO AE 93148",
+                    "type": "Previous",
+                    "reported_date": "2023-10-05"
+                }
+            ],
+            "ssn": "283-18-0508"
+        },
+        "credit_summary": {
+            "credit_score": 721,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 62
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Mortgage",
+                "balance": 58690,
+                "credit_limit": null,
+                "original_amount": 227526
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 10624,
+                "credit_limit": 6351,
+                "original_amount": 199250
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Mortgage",
+                "balance": 182810,
+                "credit_limit": 40591,
+                "original_amount": 212398
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Mortgage",
+                "balance": 58477,
+                "credit_limit": 26578,
+                "original_amount": null
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 69632,
+                "credit_limit": 16196,
+                "original_amount": 36935
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-01",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Form pattern still important crime movement person trip perhaps best special capital."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Mike Campos",
+            "date_of_birth": "1990-11-06",
+            "addresses": [
+                {
+                    "address": "942 Bryant Way, Reeseside, PA 59972",
+                    "type": "Current",
+                    "reported_date": "2022-01-30"
+                },
+                {
+                    "address": "91294 Hamilton Streets, East Stephanie, DC 08763",
+                    "type": "Previous",
+                    "reported_date": "2021-05-16"
+                }
+            ],
+            "ssn": "621-96-5666"
+        },
+        "credit_summary": {
+            "credit_score": 768,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 44
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Mortgage",
+                "balance": 12016,
+                "credit_limit": null,
+                "original_amount": 225333
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Student Loan",
+                "balance": 177537,
+                "credit_limit": null,
+                "original_amount": 35751
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 39273,
+                "filed_date": "2024-05-08",
+                "status": "Satisfied",
+                "release_date": "2024-09-15"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-14",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-16",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-22",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-22",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Fact purpose deal open stop popular authority."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Jennifer Anderson",
+            "date_of_birth": "1959-05-29",
+            "addresses": [
+                {
+                    "address": "588 Holly Dam, South Josephview, NJ 54840",
+                    "type": "Current",
+                    "reported_date": "2022-01-20"
+                },
+                {
+                    "address": "PSC 5120, Box 2569, APO AE 85568",
+                    "type": "Previous",
+                    "reported_date": "2023-06-08"
+                }
+            ],
+            "ssn": "106-49-7386"
+        },
+        "credit_summary": {
+            "credit_score": 526,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 19
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 17238,
+                "credit_limit": 13589,
+                "original_amount": 207904
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Auto Loan",
+                "balance": 162444,
+                "credit_limit": null,
+                "original_amount": 83914
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Student Loan",
+                "balance": 30804,
+                "credit_limit": null,
+                "original_amount": 135989
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 195723,
+                "credit_limit": null,
+                "original_amount": 123321
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-15",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-17",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": true,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Jacqueline Buchanan",
+            "date_of_birth": "1981-12-03",
+            "addresses": [
+                {
+                    "address": "3851 Johnny Manors Suite 718, Johnsonchester, MO 00739",
+                    "type": "Current",
+                    "reported_date": "2020-02-22"
+                },
+                {
+                    "address": "3029 Ariel Camp Suite 599, New Angela, NE 21780",
+                    "type": "Previous",
+                    "reported_date": "2021-09-05"
+                }
+            ],
+            "ssn": "827-67-1312"
+        },
+        "credit_summary": {
+            "credit_score": 649,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 61
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Auto Loan",
+                "balance": 74404,
+                "credit_limit": 19715,
+                "original_amount": null
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 92133,
+                "credit_limit": null,
+                "original_amount": 134398
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-01",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-10",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-15",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-13",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": "Brother whole heavy agency either among each election by child area pretty after."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Amy Anderson",
+            "date_of_birth": "1994-02-27",
+            "addresses": [
+                {
+                    "address": "001 Renee Vista, New Loganfurt, AK 29002",
+                    "type": "Current",
+                    "reported_date": "2024-07-31"
+                },
+                {
+                    "address": "15761 Erika Ramp, East Patrickfort, DE 21778",
+                    "type": "Previous",
+                    "reported_date": "2024-10-27"
+                }
+            ],
+            "ssn": "372-73-5488"
+        },
+        "credit_summary": {
+            "credit_score": 668,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 61
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Student Loan",
+                "balance": 173829,
+                "credit_limit": null,
+                "original_amount": 229473
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Student Loan",
+                "balance": 49948,
+                "credit_limit": null,
+                "original_amount": 203386
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Credit Card",
+                "balance": 65950,
+                "credit_limit": null,
+                "original_amount": 159960
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Auto Loan",
+                "balance": 118985,
+                "credit_limit": null,
+                "original_amount": 133097
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Personal Loan",
+                "balance": 159726,
+                "credit_limit": null,
+                "original_amount": 203374
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-21",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Brian Stanley",
+            "date_of_birth": "1966-12-27",
+            "addresses": [
+                {
+                    "address": "884 Karen Estates Suite 263, Port Brianna, LA 89187",
+                    "type": "Current",
+                    "reported_date": "2024-04-26"
+                },
+                {
+                    "address": "523 Steven Falls Apt. 753, East Justinberg, GA 71044",
+                    "type": "Previous",
+                    "reported_date": "2021-08-22"
+                }
+            ],
+            "ssn": "027-90-2500"
+        },
+        "credit_summary": {
+            "credit_score": 415,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 76
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Credit Card",
+                "balance": 20404,
+                "credit_limit": null,
+                "original_amount": 188242
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 129839,
+                "credit_limit": 18716,
+                "original_amount": 95388
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 179134,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Mortgage",
+                "balance": 138123,
+                "credit_limit": null,
+                "original_amount": 210990
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 115493,
+                "credit_limit": null,
+                "original_amount": 200178
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 21885,
+                "filed_date": "2024-04-02",
+                "status": "Satisfied",
+                "release_date": "2024-12-14"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-11",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-02",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-05",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": true,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Shawn Odom",
+            "date_of_birth": "2003-01-10",
+            "addresses": [
+                {
+                    "address": "1110 Carson Pine, West Ian, MI 98256",
+                    "type": "Current",
+                    "reported_date": "2021-12-18"
+                },
+                {
+                    "address": "7049 Ritter Islands, Port Robertburgh, TX 21447",
+                    "type": "Previous",
+                    "reported_date": "2020-01-15"
+                }
+            ],
+            "ssn": "789-89-2340"
+        },
+        "credit_summary": {
+            "credit_score": 515,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 61
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 96590,
+                "credit_limit": null,
+                "original_amount": 249371
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Student Loan",
+                "balance": 64452,
+                "credit_limit": null,
+                "original_amount": 128292
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-04",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-05",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Three eight national movement its bit data cut son compare western."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Martin Mcbride",
+            "date_of_birth": "1977-08-07",
+            "addresses": [
+                {
+                    "address": "83940 Johnson Common, Lutzview, MI 64753",
+                    "type": "Current",
+                    "reported_date": "2023-03-08"
+                },
+                {
+                    "address": "194 Stephens Village, South Ann, CA 89976",
+                    "type": "Previous",
+                    "reported_date": "2020-06-27"
+                }
+            ],
+            "ssn": "380-04-3756"
+        },
+        "credit_summary": {
+            "credit_score": 450,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 5
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 140939,
+                "credit_limit": null,
+                "original_amount": 206966
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Student Loan",
+                "balance": 61760,
+                "credit_limit": null,
+                "original_amount": 83126
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 96329,
+                "credit_limit": 36348,
+                "original_amount": 79564
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 68858,
+                "credit_limit": null,
+                "original_amount": 14686
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Student Loan",
+                "balance": 80658,
+                "credit_limit": null,
+                "original_amount": 197150
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 32363,
+                "filed_date": "2023-04-22",
+                "status": "Satisfied",
+                "release_date": "2022-02-28"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-19",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-10",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": "Check guess next business because half Congress themselves lay keep run."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Amy Tapia",
+            "date_of_birth": "1966-09-19",
+            "addresses": [
+                {
+                    "address": "99089 Jason Vista Apt. 325, Mendozaburgh, ID 77208",
+                    "type": "Current",
+                    "reported_date": "2024-11-01"
+                },
+                {
+                    "address": "55273 Ashley Neck, Port Keith, DC 48532",
+                    "type": "Previous",
+                    "reported_date": "2024-07-28"
+                }
+            ],
+            "ssn": "776-15-4479"
+        },
+        "credit_summary": {
+            "credit_score": 516,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 69
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Discover",
+                "account_type": "Auto Loan",
+                "balance": 52019,
+                "credit_limit": null,
+                "original_amount": 93351
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Mortgage",
+                "balance": 119874,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-01",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-07",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-12",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-02",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Body accept successful nice gas lawyer place administration product both think."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Chad Johnson",
+            "date_of_birth": "1990-09-15",
+            "addresses": [
+                {
+                    "address": "851 David Spurs Suite 764, West Jennifer, MA 76949",
+                    "type": "Current",
+                    "reported_date": "2023-08-27"
+                },
+                {
+                    "address": "2369 Johnson Point, New Hunter, AR 56143",
+                    "type": "Previous",
+                    "reported_date": "2024-04-26"
+                }
+            ],
+            "ssn": "483-54-2103"
+        },
+        "credit_summary": {
+            "credit_score": 604,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 90
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Discover",
+                "account_type": "Credit Card",
+                "balance": 106534,
+                "credit_limit": 27329,
+                "original_amount": 22691
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Personal Loan",
+                "balance": 97357,
+                "credit_limit": null,
+                "original_amount": 180284
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 127242,
+                "credit_limit": null,
+                "original_amount": 97011
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 15832,
+                "filed_date": "2022-03-15",
+                "status": "Satisfied",
+                "release_date": "2020-03-01"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-15",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-22",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Brenda Wu",
+            "date_of_birth": "1992-09-26",
+            "addresses": [
+                {
+                    "address": "4486 Martin Motorway Suite 765, Amberton, NV 44417",
+                    "type": "Current",
+                    "reported_date": "2022-09-06"
+                },
+                {
+                    "address": "8532 Rebecca Radial, Williamsstad, WY 89764",
+                    "type": "Previous",
+                    "reported_date": "2022-06-11"
+                }
+            ],
+            "ssn": "835-93-8455"
+        },
+        "credit_summary": {
+            "credit_score": 401,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 59
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 81183,
+                "credit_limit": null,
+                "original_amount": 41426
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Personal Loan",
+                "balance": 141839,
+                "credit_limit": null,
+                "original_amount": 213585
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Mortgage",
+                "balance": 45154,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-18",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-07",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": true,
+            "consumer_statement": "Simply fish position church system than thus guy them."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Patty Lara",
+            "date_of_birth": "1981-12-27",
+            "addresses": [
+                {
+                    "address": "515 Murray Squares, Brianburgh, MS 04726",
+                    "type": "Current",
+                    "reported_date": "2023-11-16"
+                },
+                {
+                    "address": "6051 Sarah Knoll Apt. 889, Mathewborough, ME 91526",
+                    "type": "Previous",
+                    "reported_date": "2024-05-03"
+                }
+            ],
+            "ssn": "005-61-9224"
+        },
+        "credit_summary": {
+            "credit_score": 414,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 26
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 100678,
+                "credit_limit": null,
+                "original_amount": 113155
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Auto Loan",
+                "balance": 63612,
+                "credit_limit": 3117,
+                "original_amount": 165080
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Auto Loan",
+                "balance": 104483,
+                "credit_limit": 5941,
+                "original_amount": 127516
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 24206,
+                "filed_date": "2024-08-24",
+                "status": "Released",
+                "release_date": "2023-10-03"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-14",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-09",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-08",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Robert Howard",
+            "date_of_birth": "1985-08-07",
+            "addresses": [
+                {
+                    "address": "692 Lisa Route, East Jessicamouth, SC 77315",
+                    "type": "Current",
+                    "reported_date": "2024-03-06"
+                },
+                {
+                    "address": "0732 Cannon Alley, Cherylmouth, NC 91125",
+                    "type": "Previous",
+                    "reported_date": "2024-09-26"
+                }
+            ],
+            "ssn": "522-18-8232"
+        },
+        "credit_summary": {
+            "credit_score": 750,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 5
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Mortgage",
+                "balance": 25159,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Mortgage",
+                "balance": 47451,
+                "credit_limit": null,
+                "original_amount": 122450
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 26266,
+                "filed_date": "2023-03-18",
+                "status": "Satisfied",
+                "release_date": "2021-10-16"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-01",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-19",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-12",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Live finish win network which source appear then hospital light source effect church."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Danielle Gonzalez",
+            "date_of_birth": "1957-11-21",
+            "addresses": [
+                {
+                    "address": "608 Smith Knoll Apt. 804, Weaverbury, OK 60712",
+                    "type": "Current",
+                    "reported_date": "2021-11-16"
+                },
+                {
+                    "address": "03447 Miller Estate, West Michael, CT 64740",
+                    "type": "Previous",
+                    "reported_date": "2020-01-22"
+                }
+            ],
+            "ssn": "008-27-0493"
+        },
+        "credit_summary": {
+            "credit_score": 818,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 87
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 83947,
+                "credit_limit": null,
+                "original_amount": 91340
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-13",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-20",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-09",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-22",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-08",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Purpose similar ago style production involve can pull begin."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Wendy Powers",
+            "date_of_birth": "1960-02-29",
+            "addresses": [
+                {
+                    "address": "2627 Bobby Spurs, Johnsonborough, MI 20101",
+                    "type": "Current",
+                    "reported_date": "2022-01-18"
+                },
+                {
+                    "address": "PSC 8040, Box 4501, APO AE 16157",
+                    "type": "Previous",
+                    "reported_date": "2023-04-16"
+                }
+            ],
+            "ssn": "843-39-4798"
+        },
+        "credit_summary": {
+            "credit_score": 760,
+            "score_model": "VantageScore 3.0",
+            "credit_utilization": 16
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Personal Loan",
+                "balance": 76217,
+                "credit_limit": null,
+                "original_amount": 73819
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Personal Loan",
+                "balance": 26843,
+                "credit_limit": null,
+                "original_amount": 239430
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Mortgage",
+                "balance": 33780,
+                "credit_limit": null,
+                "original_amount": 158359
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Credit Card",
+                "balance": 172282,
+                "credit_limit": null,
+                "original_amount": 44279
+            },
+            {
+                "creditor": "Chase Bank",
+                "account_type": "Personal Loan",
+                "balance": 136749,
+                "credit_limit": null,
+                "original_amount": 48930
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-12",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-23",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Alexis Underwood",
+            "date_of_birth": "1996-07-11",
+            "addresses": [
+                {
+                    "address": "587 Jody Forges, West Heather, NJ 91841",
+                    "type": "Current",
+                    "reported_date": "2020-10-14"
+                },
+                {
+                    "address": "74482 Paul Terrace Apt. 368, North Julie, AZ 71665",
+                    "type": "Previous",
+                    "reported_date": "2022-12-26"
+                }
+            ],
+            "ssn": "145-87-5175"
+        },
+        "credit_summary": {
+            "credit_score": 487,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 85
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Auto Loan",
+                "balance": 6995,
+                "credit_limit": null,
+                "original_amount": null
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 27651,
+                "filed_date": "2022-04-12",
+                "status": "Released",
+                "release_date": "2020-05-03"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-05",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-15",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Finish your to vote southern film month hospital citizen."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Lori Barnett",
+            "date_of_birth": "1964-02-07",
+            "addresses": [
+                {
+                    "address": "669 Jacob Springs, South Krystal, OR 75703",
+                    "type": "Current",
+                    "reported_date": "2022-04-02"
+                },
+                {
+                    "address": "06816 Glenn River Suite 493, Brownshire, AZ 86349",
+                    "type": "Previous",
+                    "reported_date": "2023-02-15"
+                }
+            ],
+            "ssn": "462-98-4454"
+        },
+        "credit_summary": {
+            "credit_score": 608,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 10
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Mortgage",
+                "balance": 117045,
+                "credit_limit": null,
+                "original_amount": 30631
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-20",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-15",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-16",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-21",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-02",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": "Look child his both interesting upon like put assume seek rise daughter."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Kendra Cain",
+            "date_of_birth": "1997-05-30",
+            "addresses": [
+                {
+                    "address": "798 Nunez Mountain, West Taylor, MI 02195",
+                    "type": "Current",
+                    "reported_date": "2022-02-18"
+                },
+                {
+                    "address": "67555 John Island, Timothyhaven, OK 52409",
+                    "type": "Previous",
+                    "reported_date": "2022-01-30"
+                }
+            ],
+            "ssn": "532-38-5622"
+        },
+        "credit_summary": {
+            "credit_score": 810,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 49
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Credit Card",
+                "balance": 8751,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 70279,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 88093,
+                "credit_limit": null,
+                "original_amount": null
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Credit Card",
+                "balance": 175912,
+                "credit_limit": null,
+                "original_amount": 80309
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 38608,
+                "filed_date": "2020-02-14",
+                "status": "Released",
+                "release_date": "2021-04-30"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Discover",
+                "date": "2025-01-16",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-16",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-05",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-21",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-11",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": "Pass herself owner lead thus job how make debate music."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Deanna Lee",
+            "date_of_birth": "1990-11-20",
+            "addresses": [
+                {
+                    "address": "3052 Samantha Flat, New Chadmouth, OH 24565",
+                    "type": "Current",
+                    "reported_date": "2020-02-13"
+                },
+                {
+                    "address": "546 Roach Locks, East Bruceberg, LA 78870",
+                    "type": "Previous",
+                    "reported_date": "2022-12-04"
+                }
+            ],
+            "ssn": "500-95-7371"
+        },
+        "credit_summary": {
+            "credit_score": 586,
+            "score_model": "FICO Score 8",
+            "credit_utilization": 98
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Citibank",
+                "account_type": "Student Loan",
+                "balance": 170508,
+                "credit_limit": null,
+                "original_amount": 201825
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Tax Lien",
+                "amount": 47674,
+                "filed_date": "2023-09-10",
+                "status": "Satisfied",
+                "release_date": "2023-12-15"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-18",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-09",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-01",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Capital One",
+                "date": "2025-01-08",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-06",
+                "type": "Soft Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": "Guy new believe in if sit hospital would."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Destiny Freeman",
+            "date_of_birth": "1994-08-04",
+            "addresses": [
+                {
+                    "address": "4023 Morton Mall Apt. 819, New Sarahville, CA 29185",
+                    "type": "Current",
+                    "reported_date": "2023-08-01"
+                },
+                {
+                    "address": "378 Koch View Apt. 657, Josephside, FL 03677",
+                    "type": "Previous",
+                    "reported_date": "2021-01-17"
+                }
+            ],
+            "ssn": "636-83-8740"
+        },
+        "credit_summary": {
+            "credit_score": 797,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 9
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Student Loan",
+                "balance": 126595,
+                "credit_limit": null,
+                "original_amount": 10669
+            },
+            {
+                "creditor": "Bank of America",
+                "account_type": "Auto Loan",
+                "balance": 126399,
+                "credit_limit": null,
+                "original_amount": 36529
+            },
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Credit Card",
+                "balance": 38114,
+                "credit_limit": null,
+                "original_amount": 240017
+            },
+            {
+                "creditor": "Discover",
+                "account_type": "Auto Loan",
+                "balance": 183102,
+                "credit_limit": null,
+                "original_amount": 208299
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 31595,
+                "filed_date": "2021-05-08",
+                "status": "Satisfied",
+                "release_date": "2022-05-10"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "American Express",
+                "date": "2025-01-13",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-05",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-14",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": false,
+            "security_freeze": false,
+            "consumer_statement": null
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Stephanie Brown",
+            "date_of_birth": "1952-01-18",
+            "addresses": [
+                {
+                    "address": "651 Robert Islands, Tonyastad, OR 92025",
+                    "type": "Current",
+                    "reported_date": "2020-07-03"
+                },
+                {
+                    "address": "PSC 7638, Box 3649, APO AA 10738",
+                    "type": "Previous",
+                    "reported_date": "2022-10-03"
+                }
+            ],
+            "ssn": "120-20-4375"
+        },
+        "credit_summary": {
+            "credit_score": 575,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 60
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Wells Fargo",
+                "account_type": "Auto Loan",
+                "balance": 160570,
+                "credit_limit": null,
+                "original_amount": 123319
+            }
+        ],
+        "public_records": [],
+        "inquiries": [
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-17",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-03",
+                "type": "Hard Inquiry"
+            },
+            {
+                "creditor": "American Express",
+                "date": "2025-01-01",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": false,
+            "consumer_statement": "Hotel push area can big degree population fly particularly hope."
+        }
+    },
+    {
+        "personal_information": {
+            "name": "Katie Mccarthy",
+            "date_of_birth": "1994-10-05",
+            "addresses": [
+                {
+                    "address": "8723 Peterson Pines Apt. 076, Aaronhaven, ID 52381",
+                    "type": "Current",
+                    "reported_date": "2021-06-01"
+                },
+                {
+                    "address": "533 Michelle Point, Port Lonnieberg, MA 86742",
+                    "type": "Previous",
+                    "reported_date": "2020-09-09"
+                }
+            ],
+            "ssn": "718-61-5852"
+        },
+        "credit_summary": {
+            "credit_score": 814,
+            "score_model": "Equifax Credit Score",
+            "credit_utilization": 22
+        },
+        "credit_accounts": [
+            {
+                "creditor": "Bank of America",
+                "account_type": "Personal Loan",
+                "balance": 116127,
+                "credit_limit": null,
+                "original_amount": 48097
+            }
+        ],
+        "public_records": [
+            {
+                "type": "Judgment",
+                "amount": 38718,
+                "filed_date": "2021-07-15",
+                "status": "Satisfied",
+                "release_date": "2022-05-03"
+            }
+        ],
+        "inquiries": [
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-09",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Citibank",
+                "date": "2025-01-01",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Discover",
+                "date": "2025-01-13",
+                "type": "Soft Inquiry"
+            },
+            {
+                "creditor": "Barclays",
+                "date": "2025-01-18",
+                "type": "Hard Inquiry"
+            }
+        ],
+        "alerts": {
+            "fraud_alert": true,
+            "security_freeze": true,
+            "consumer_statement": "Us enter data rest last those seem case good subject."
+        }
+    }
+]
