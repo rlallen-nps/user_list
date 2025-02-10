@@ -1,4 +1,4 @@
-"loan_applications": [
+{"loan_applications": [
     {
         "personal_information": {
             "name": "Sydney Daniel",
@@ -2241,3 +2241,4 @@
         }
     }
 ]
+}
